@@ -14,7 +14,7 @@ import java.util.zip.ZipOutputStream;
 
 public class WebScraper {
     private static final String URL_SITE = "https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/atualizacao-do-rol-de-procedimentos";
-    private static final String DOWNLOAD_FOLDER = "downloads";
+    private static final String DOWNLOAD_FOLDER = "../downloads";
     private static final String ZIP_FILE = "anexos.zip";
 
 
